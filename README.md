@@ -116,7 +116,7 @@
 
 📧 sateebjilani@gmail.com  
 
-💼 LinkedIn: *Add your link here*  
+💼 LinkedIn: (https://www.linkedin.com/in/ateeb-jilani-802545353/)  
 
 💻 GitHub: https://github.com/SyedAteebJilani
 
