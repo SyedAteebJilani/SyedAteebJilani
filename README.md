@@ -4,7 +4,6 @@
 <p align="center">
 📍 Karachi, Pakistan <br>
 💻 Passionate about Web Development & Problem Solving <br>
-🚀 Seeking Internship Opportunities
 </p>
 
 ---
@@ -110,17 +109,6 @@
 - Deloitte Job Simulation (Forage)  
 - Oracle Certified Foundations Associate  
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SyedAteebJilani&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAteebJilani&layout=compact&theme=radical" />
-</p>
 
 ---
 
