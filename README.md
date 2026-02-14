@@ -98,7 +98,6 @@
 - Blockchain integration idea  
 - AI-based exception handling  
 
-🔗 https://github.com/SyedAteebJilani/Pension-Prototype-software
 
 ---
 
