@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Syed Ateeb Jilani 👋
+# Hi there, I'm Syed Ateeb Ul Hasan Jilani 👋
 
 ### Software Engineer • Full-Stack Developer • Systems & Automation Enthusiast
 
